@@ -1,0 +1,7 @@
+{
+    "jupyter.kernels.filter": [],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [
+        "./starter_code"
+    ]
+}

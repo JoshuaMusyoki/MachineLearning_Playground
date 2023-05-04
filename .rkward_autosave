@@ -1,0 +1,2 @@
+dataset = read.csv("data-marketing-budget-12mo.csv", header=T,
+colClasses = c("numeric", "numeric", "numeric"))
